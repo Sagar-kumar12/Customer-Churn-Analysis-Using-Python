@@ -21,6 +21,7 @@ State
 Occupation
 Product Category
 Purchase Amount
+
 🛠️ Technologies Used
 Python
 Libraries:
@@ -54,8 +55,8 @@ Married women aged 26–35 are major buyers
 Certain states contribute significantly to total sales
 IT, Healthcare, and Aviation sectors show higher purchasing power
 Specific product categories dominate sales
-🚀 Conclusion
 
+🚀 Conclusion
 This analysis helps businesses:
 
 Target the right customer segment
@@ -63,15 +64,6 @@ Optimize marketing campaigns
 Improve product positioning
 Increase revenue through data-driven decisions
 
-📁 Project Structure
-├── Customer_Purchase Prediction.ipynb
-├── Diwali Sales Data.csv
-└── README.md
-
-▶️ How to Run
-Clone the repository
-Open the notebook in Jupyter Notebook / VS Code
-Run all cells step-by-step
 
 🙌 Future Improvements
 Build a machine learning model for purchase prediction

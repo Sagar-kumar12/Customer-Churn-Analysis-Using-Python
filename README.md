@@ -1,4 +1,4 @@
-🛍️ Diwali Sales Analysis
+🛍️ Diwali Sales Analysis\n
 📌 Project Overview
 
 This project focuses on analyzing customer purchase behavior using Python. The dataset contains sales data (Diwali Sales), and the goal is to extract meaningful insights that can help businesses understand customer trends and improve decision-making.

@@ -1,4 +1,4 @@
-# Customer-Churn-Analysis-Using-Python
+# Customer_Purchase_Prediction
 
 **Project Overview**
 This project focuses on analyzing customer behavior and building a predictive model to identify customers who are likely to churn. By using exploratory data analysis (EDA), feature engineering, and machine learning, the goal is to help businesses take proactive steps in customer retention.

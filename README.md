@@ -10,6 +10,7 @@ Analyze customer demographics (age, gender, occupation, etc.)
 Identify purchasing patterns
 Visualize sales trends
 Generate business insights for better marketing strategies
+
 📂 Dataset
 File Used: Diwali Sales Data.csv
 Contains customer details such as:
@@ -27,6 +28,7 @@ NumPy
 Pandas
 Matplotlib
 Seaborn
+
 🔍 Steps Performed
 1. Data Loading
 Imported dataset using Pandas
@@ -46,6 +48,7 @@ Used Matplotlib and Seaborn for:
 Bar charts
 Count plots
 Distribution plots
+
 📊 Key Insights
 Married women aged 26–35 are major buyers
 Certain states contribute significantly to total sales
@@ -59,14 +62,17 @@ Target the right customer segment
 Optimize marketing campaigns
 Improve product positioning
 Increase revenue through data-driven decisions
+
 📁 Project Structure
 ├── Customer_Purchase Prediction.ipynb
 ├── Diwali Sales Data.csv
 └── README.md
+
 ▶️ How to Run
 Clone the repository
 Open the notebook in Jupyter Notebook / VS Code
 Run all cells step-by-step
+
 🙌 Future Improvements
 Build a machine learning model for purchase prediction
 Deploy as a web dashboard (Streamlit/Power BI)
